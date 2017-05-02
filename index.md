@@ -2,9 +2,8 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" type="text/css" href="css/index.css" />
-	<style type="text/css">
-	</style>
-	<title>Document</title>
+
+	<title>Gakki</title>
 </head>
 <body background='https://pic2.zhimg.com/v2-563d30e4479affaf30cb8a195b1b71e1_b.png'>
 	
