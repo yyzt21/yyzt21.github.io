@@ -2,7 +2,12 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" type="text/css" href="css/index.css" />
-
+	<style>
+	img{
+	width:300px;
+	margin:0px auto;
+	}
+	</style>
 	<title>Gakki</title>
 </head>
 <body>
