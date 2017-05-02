@@ -4,7 +4,7 @@
 	<link rel="stylesheet" type="text/css" href="css/index.css" />
 	<style>
 	img{
-	width:300px;
+	width:800px;
 	margin:0px auto;
 	}
 	</style>
